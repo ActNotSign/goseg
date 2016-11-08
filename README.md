@@ -10,7 +10,7 @@
 
 ### 获取分词
 
-`POST  http://segment.services.ciwei.com/segment`
+`POST  http://segment.services.com/segment`
 
 > 参数
 
